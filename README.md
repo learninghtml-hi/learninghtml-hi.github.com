@@ -1,2 +1,2 @@
-# learninghtml-hi.github.com
+# learninghtml-hi.github.io
 website about html codes
